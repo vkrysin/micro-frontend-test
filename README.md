@@ -26,7 +26,7 @@ micro-frontend-sample/
 
 ## Установка и запуск
 
-### Клоонирование репозитория
+### Клонирование репозитория
 
 ```sh
 git git@github.com:vkrysin/micro-frontend-test.git

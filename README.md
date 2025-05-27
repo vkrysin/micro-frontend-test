@@ -38,7 +38,7 @@ cd micro-frontend-test
 Используя npm:
 
 ```sh
-npm install
+npm i -r
 ```
 
 ### Запуск приложений

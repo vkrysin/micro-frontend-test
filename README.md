@@ -57,4 +57,3 @@ npm run dev
 | App 1          | `http://localhost:5011` |
 | App 2          | `http://localhost:5012` |
 
-The Host dynamically loads App 1 and App 2 via Module Federation and manages routing through the Route Manifest.
